@@ -7,6 +7,9 @@ It has incorporated good use of functions that can be safely used in a backend T
 ## Instructions Given
 - 5b8d0fd276b6d288905ed2f63a934e057e8feca2
 
+## Author
+- [Malcom Miya](https://github.com/nazosnare)
+
 
 ## Prerequisites
 - npm 
